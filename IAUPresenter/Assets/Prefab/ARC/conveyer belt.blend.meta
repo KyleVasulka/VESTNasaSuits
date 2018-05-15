@@ -1,0 +1,202 @@
+fileFormatVersion: 2
+guid: 687f3c74855becf468c44d72c8785894
+timeCreated: 1521391252
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Armature_001
+    100004: BezierCircle
+    100006: BezierCurve
+    100008: Body40
+    100010: Body41
+    100012: Body42
+    100014: Body43
+    100016: Body46
+    100018: Bone
+    100020: Bone_0
+    100022: //RootNode
+    100024: conveyer_belt
+    100026: conveyer_belt_v6
+    100028: conveyer_up__1_
+    100030: cross_bar
+    100032: Cube_001
+    100034: end_ramp
+    100036: mechanic_pusher
+    100038: Plane
+    100040: Plane_001
+    100042: side_mount_left
+    100044: side_mount_right
+    100046: SLIDE
+    100048: Cylinder
+    100050: Plane_002
+    400000: Armature
+    400002: Armature_001
+    400004: BezierCircle
+    400006: BezierCurve
+    400008: Body40
+    400010: Body41
+    400012: Body42
+    400014: Body43
+    400016: Body46
+    400018: Bone
+    400020: Bone_0
+    400022: //RootNode
+    400024: conveyer_belt
+    400026: conveyer_belt_v6
+    400028: conveyer_up__1_
+    400030: cross_bar
+    400032: Cube_001
+    400034: end_ramp
+    400036: mechanic_pusher
+    400038: Plane
+    400040: Plane_001
+    400042: side_mount_left
+    400044: side_mount_right
+    400046: SLIDE
+    400048: Cylinder
+    400050: Plane_002
+    2100000: unnamed
+    2100002: Steel_-_Satin
+    2300000: BezierCircle
+    2300002: BezierCurve
+    2300004: Body40
+    2300006: Body41
+    2300008: Body42
+    2300010: Body43
+    2300012: Body46
+    2300014: conveyer_belt
+    2300016: conveyer_up__1_
+    2300018: cross_bar
+    2300020: Cube_001
+    2300022: end_ramp
+    2300024: mechanic_pusher
+    2300026: Plane
+    2300028: Plane_001
+    2300030: side_mount_left
+    2300032: side_mount_right
+    2300034: SLIDE
+    2300036: Cylinder
+    2300038: Plane_002
+    3300000: BezierCircle
+    3300002: BezierCurve
+    3300004: Body40
+    3300006: Body41
+    3300008: Body42
+    3300010: Body43
+    3300012: Body46
+    3300014: conveyer_belt
+    3300016: conveyer_up__1_
+    3300018: cross_bar
+    3300020: Cube_001
+    3300022: end_ramp
+    3300024: mechanic_pusher
+    3300026: Plane
+    3300028: Plane_001
+    3300030: side_mount_left
+    3300032: side_mount_right
+    3300034: SLIDE
+    3300036: Cylinder
+    3300038: Plane_002
+    4300000: BezierCurve
+    4300002: BezierCircle
+    4300004: Plane
+    4300006: Cube_001
+    4300008: Plane_001
+    4300010: Body46
+    4300012: Body43
+    4300014: Body42
+    4300016: Body41
+    4300018: Body40
+    4300020: conveyer_up__1_
+    4300022: end_ramp
+    4300024: conveyer_belt
+    4300026: cross_bar
+    4300028: mechanic_pusher
+    4300030: side_mount_right
+    4300032: side_mount_left
+    4300034: SLIDE
+    4300036: Cylinder
+    4300038: Plane_002
+    7400000: Default Take
+    9500000: //RootNode
+    11100000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
